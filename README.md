@@ -29,10 +29,10 @@
 
 ## GitHub Stats:
 <div>
-<a href="http://www.github.com/MatheusSMarruda"><img src="https://github-readme-stats.vercel.app/api?username=MatheusSMarruda&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="MatheusSMarruda's GitHub stats" /></a>
+<a href="http://www.github.com/MatheusSMarruda"><img src="https://github-readme-stats.vercel.app/api?username=MatheusSMarruda&show_icons=true&hide=&count_private=true&title_color=3CCF4E&text_color=38E54D&icon_color=ef4444&bg_color=0B2447&hide_border=true&show_icons=true" alt="MatheusSMarruda's GitHub stats" /></a>
           
 
-<a href="https://github.com/MatheusSMarruda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMarruda&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MatheusSMarruda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMarruda&langs_count=10&title_color=3CCF4E&text_color=38E54D&icon_color=FC7300&bg_color=0B2447&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 
