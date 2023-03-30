@@ -29,10 +29,12 @@
 
 ## GitHub Stats:
 <div>
-<a href="https://github.com/MatheusSMarruda">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMarruda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSMarruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="http://www.github.com/MatheusSMarruda"><img src="https://github-readme-stats.vercel.app/api?username=MatheusSMarruda&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="MatheusSMarruda's GitHub stats" /></a>
+          
+
+<a href="https://github.com/MatheusSMarruda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMarruda&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+
 
 <!--
 #Hello, my name is Matheus Santos Morais Arruda, welcome to my GitHub profile!
